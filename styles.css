@@ -1,0 +1,23 @@
+/* Custom styles for index.html page */
+
+.card-wrap {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+
+.main-title {
+    text-align: center;
+}
+
+.main-title {
+    margin: 20px;
+}
+
+.card {
+    border: none;
+}
+
+.card-body {
+    text-align: center;
+}
